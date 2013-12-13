@@ -1,0 +1,48 @@
+<Faces>
+<nFrame> 1000 </nFrame> 
+<Face>
+<label>s1</label>
+<BBox>
+            <frameId>1</frameId>
+            <x>381</x>
+            <y>37</y>
+            <w>200</w>
+            <h>200</h>
+            <confidence>13 </confidence>
+            <person> 
+                     <label>s2</label>
+                     <confidence>69 </confidence>
+            </person>
+</BBox>
+<BBox>
+            <frameId>100</frameId>
+            <x>381</x>
+            <y>37</y>
+            <w>200</w>
+            <h>200</h>
+            <confidence>1 </confidence>
+
+</BBox>
+
+
+</Face>
+
+<Face>
+<label>s2</label>
+<BBox>
+            <frameId>13</frameId>
+            <x>381</x>
+            <y>37</y>
+            <w>200</w>
+            <h>200</h>
+            <confidence>13 </confidence>
+            <person> 
+                     <label>s3</label>
+                     <confidence>69 </confidence>
+            </person>
+</BBox>
+
+
+</Face>
+
+</Faces>

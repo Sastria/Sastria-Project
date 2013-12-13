@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/opencv/!svn/ver/6456/branches/2.3/opencv/data/haarcascades
+END
+haarcascade_mcs_eyepair_big.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/opencv/!svn/ver/6456/branches/2.3/opencv/data/haarcascades/haarcascade_mcs_eyepair_big.xml
+END
+haarcascade_eye.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/opencv/!svn/ver/6456/branches/2.3/opencv/data/haarcascades/haarcascade_eye.xml
+END
+haarcascade_mcs_righteye.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/opencv/!svn/ver/6456/branches/2.3/opencv/data/haarcascades/haarcascade_mcs_righteye.xml
+END
+haarcascade_mcs_leftear.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/opencv/!svn/ver/6456/branches/2.3/opencv/data/haarcascades/haarcascade_mcs_leftear.xml
+END
+haarcascade_frontalface_alt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/opencv/!svn/ver/6456/branches/2.3/opencv/data/haarcascades/haarcascade_frontalface_alt.xml
+END
+haarcascade_eye_tree_eyeglasses.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/opencv/!svn/ver/6456/branches/2.3/opencv/data/haarcascades/haarcascade_eye_tree_eyeglasses.xml
+END
+haarcascade_mcs_eyepair_small.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/opencv/!svn/ver/6456/branches/2.3/opencv/data/haarcascades/haarcascade_mcs_eyepair_small.xml
+END
+haarcascade_frontalface_default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/opencv/!svn/ver/6456/branches/2.3/opencv/data/haarcascades/haarcascade_frontalface_default.xml
+END
+haarcascade_mcs_mouth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/opencv/!svn/ver/6456/branches/2.3/opencv/data/haarcascades/haarcascade_mcs_mouth.xml
+END
+haarcascade_mcs_lefteye.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/opencv/!svn/ver/6456/branches/2.3/opencv/data/haarcascades/haarcascade_mcs_lefteye.xml
+END
+haarcascade_righteye_2splits.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/opencv/!svn/ver/6456/branches/2.3/opencv/data/haarcascades/haarcascade_righteye_2splits.xml
+END
+haarcascade_frontalface_alt_tree.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/opencv/!svn/ver/6456/branches/2.3/opencv/data/haarcascades/haarcascade_frontalface_alt_tree.xml
+END
+haarcascade_mcs_nose.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/opencv/!svn/ver/6456/branches/2.3/opencv/data/haarcascades/haarcascade_mcs_nose.xml
+END
+haarcascade_lowerbody.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/opencv/!svn/ver/6456/branches/2.3/opencv/data/haarcascades/haarcascade_lowerbody.xml
+END
+haarcascade_frontalface_alt2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/opencv/!svn/ver/6456/branches/2.3/opencv/data/haarcascades/haarcascade_frontalface_alt2.xml
+END
+haarcascade_mcs_rightear.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/opencv/!svn/ver/6456/branches/2.3/opencv/data/haarcascades/haarcascade_mcs_rightear.xml
+END
+haarcascade_upperbody.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/opencv/!svn/ver/6456/branches/2.3/opencv/data/haarcascades/haarcascade_upperbody.xml
+END
+haarcascade_mcs_upperbody.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/opencv/!svn/ver/6456/branches/2.3/opencv/data/haarcascades/haarcascade_mcs_upperbody.xml
+END
+haarcascade_lefteye_2splits.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/opencv/!svn/ver/6456/branches/2.3/opencv/data/haarcascades/haarcascade_lefteye_2splits.xml
+END
+haarcascade_profileface.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/opencv/!svn/ver/6456/branches/2.3/opencv/data/haarcascades/haarcascade_profileface.xml
+END
+haarcascade_fullbody.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/opencv/!svn/ver/6456/branches/2.3/opencv/data/haarcascades/haarcascade_fullbody.xml
+END
